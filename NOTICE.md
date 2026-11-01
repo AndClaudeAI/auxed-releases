@@ -58,6 +58,13 @@ Draws the Transfer QR code.
 - Licence: MIT ([text](licenses/MIT-qrcode-generator.txt))
 - Copyright © 2009 Kazuhiko Arase
 
+## Electron
+
+Runs auxed on Windows, macOS and Linux (the desktop app only). Chromium's own notices ship inside the app as `LICENSES.chromium.html`.
+
+- Licence: MIT ([text](licenses/MIT-Electron.txt))
+- Copyright © Electron contributors; Copyright © 2013-2020 GitHub Inc.
+
 ## Emscripten runtime
 
 Runs the codec pack in WebAssembly.
