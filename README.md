@@ -20,7 +20,7 @@ From **[the latest release](https://github.com/AndClaudeAI/auxed-releases/releas
 
 The warnings appear because the desktop installers aren't signed with a paid publisher certificate yet; they are built from the same source as the Android app by the release workflow.
 
-On a computer auxed finds films and music in your Videos, Music, Downloads and Desktop folders, opens the films and songs you open with it, and offers its own updates the same way the phone app does.
+On a computer auxed finds films and music in your Videos, Music, Downloads and Desktop folders, opens the films and songs you open with it, sends and receives films with phones and other computers over Wi-Fi (**Transfer**), and offers its own updates the same way the phone app does.
 
 ## Licences and source code
 
